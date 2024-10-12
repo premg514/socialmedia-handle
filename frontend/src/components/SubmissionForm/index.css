@@ -1,0 +1,22 @@
+.userw{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.forme{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 150px;
+   
+
+}
+.submissione{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

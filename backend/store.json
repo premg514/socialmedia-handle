@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Prem",
+    "socialMediaHandle": "Instagram",
+    "images": [
+      "1728729788426-Screenshot (359).png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "prem",
+    "socialMediaHandle": "x",
+    "images": []
+  },
+  {
+    "id": 3,
+    "name": "prem",
+    "socialMediaHandle": "x",
+    "images": [
+      "1728730590391-Screenshot 2024-09-05 210448.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "prem",
+    "socialMediaHandle": "x",
+    "images": [
+      "1728730896668-Screenshot 2024-09-05 214803.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "prem",
+    "socialMediaHandle": "x",
+    "images": [
+      "1728730974632-Screenshot (359).png"
+    ]
+  }
+]
